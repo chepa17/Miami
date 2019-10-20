@@ -1,1 +1,1 @@
-[DEMO LINK](https://chepa17.github.io/miami/scr/index.html)
+[DEMO LINK](https://chepa17.github.io/miami/src/index.html)
